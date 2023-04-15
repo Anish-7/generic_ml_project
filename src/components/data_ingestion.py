@@ -8,7 +8,6 @@ from dataclasses import dataclass
 
 @dataclass
 class Data_ingestion_config:
-    raw_data_path : str = os.path.join(os.getcwd(),"artifacts","raw_data")
     train_data_path : str= os.path.join(os.getcwd(),"artifacts","train_data")
     test_data_path  :str = os.path.join(os.getcwd(),"artifacts","test_data")
 

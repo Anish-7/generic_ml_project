@@ -99,4 +99,5 @@ if __name__ == '__main__':
     train_path, test_path =Data_Ingestion().initiate_ingestion()
     dt =Data_transformation()
     train,test,pre_path = dt.initialse_transform(train_path, test_path)
-    print(pre_path)
+
+    print()
