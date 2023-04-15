@@ -100,4 +100,3 @@ if __name__ == '__main__':
     dt =Data_transformation()
     train,test,pre_path = dt.initialse_transform(train_path, test_path)
 
-    print()
