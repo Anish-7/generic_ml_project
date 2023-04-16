@@ -1,1 +1,1 @@
-# generic_ml_project
+# student performance prediction end to end project
