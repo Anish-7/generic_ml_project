@@ -1,1 +1,1 @@
-# student performance prediction end to end project
+# student performance prediction
